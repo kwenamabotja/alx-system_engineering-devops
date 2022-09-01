@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-# who ami
-if [ "$1" ]
-    then
-    sudo -u "$1" whoami
-fi
